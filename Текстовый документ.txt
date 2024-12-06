@@ -1,0 +1,6 @@
+_acme-challenge.mgmwood.kz
+ZGtBQwft_cOBzKEUQV_Mjrs5aViEHSbA5X9No4DL4dA
+
+194.39.65.8
+2a00:5da0:1000::154
+mgmwoodk
